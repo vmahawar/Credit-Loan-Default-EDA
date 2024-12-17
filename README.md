@@ -1,5 +1,7 @@
 # Exploratory Data Analysis and Machine Learning for predicting loan defaults using Python.
 
+![alt text](credit-loan-default-eda-readme.png)
+
 ---
 
 ## Contents of the repository:
