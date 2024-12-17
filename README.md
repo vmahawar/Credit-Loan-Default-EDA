@@ -1,5 +1,13 @@
 # Exploratory Data Analysis and Machine Learning for predicting loan defaults using Python.
 
+---
+
+## Contents of the repository:
+### 🧑‍💻[Credit-Loan-Default Jupyter Notebook](./Credit-EDA-Assignment.ipynb)
+### 📝[Credit-Loan-Default Case Study](./Credit-EDA-Assignment.pdf)
+
+---
+
 ## Problem Statement - 1
 
 **Introduction**
@@ -86,12 +94,6 @@ Include visualisations and summarise the most important results in the presentat
  
 
 You need to submit one/two Ipython notebook which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots. The presentation file needs to be in PDF format and should contain the points discussed above with the necessary visualisations. Also, all the visualisations and plots must be done in Python(should be present in the Ipython notebook), though they may be recreated in Tableau for better aesthetics in the PPT file.
-
----
-
-## Contents of the repository:
-### 🧑‍💻[Credit-Loan-Default Jupyter Notebook](./Credit-EDA-Assignment.ipynb)
-### 📝[Credit-Loan-Default Case Study](./Credit-EDA-Assignment.pdf)
 
 ---
 
