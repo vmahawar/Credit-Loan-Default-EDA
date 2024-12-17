@@ -8,6 +8,14 @@
 
 ---
 
+## Dataset and supporting files:
+### 📂[Three files that make up the data set](https://www.kaggle.com/datasets/vmahawar/credit-loan-default-eda/data)
+#### 1️⃣[columns_description.csv](https://www.kaggle.com/datasets/vmahawar/credit-loan-default-eda/data?select=columns_description.csv)
+#### 2️⃣[application_data.csv](https://www.kaggle.com/datasets/vmahawar/credit-loan-default-eda/data?select=application_data.csv)
+#### 3️⃣[previous_application.csv](https://www.kaggle.com/datasets/vmahawar/credit-loan-default-eda/data?select=previous_application.csv)
+
+---
+
 ## Problem Statement - 1
 
 **Introduction**
