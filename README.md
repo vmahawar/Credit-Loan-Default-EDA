@@ -4,6 +4,12 @@
 
 ---
 
+## Description:
+
+This project focuses on analyzing credit loan data to uncover key insights into borrower behavior and loan default patterns using Exploratory Data Analysis (EDA). By leveraging libraries such as Pandas, NumPy, Matplotlib, and Seaborn, I performed in-depth data cleaning, preprocessing, and visualization to identify critical factors contributing to loan defaults. The analysis lays the groundwork for predictive modeling, enabling better credit risk assessment and data-driven decision-making.
+
+---
+
 ## Contents of the repository:
 ### 🧑‍💻[Credit-Loan-Default Jupyter Notebook](./Credit-EDA-Assignment.ipynb)
 ### 📝[Credit-Loan-Default Case Study](./Credit-EDA-Assignment.pdf)
